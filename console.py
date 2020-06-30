@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-The console
+The main console.
 """
 from models.base_model import BaseModel
 from models.user import User
@@ -134,7 +134,7 @@ class HBNBCommand(cmd.Cmd):
         print(objs_str)
 
     def do_update(self, args):
-        """Some description
+        """Updates objects with this command.
         """
         ci = ["", "", "", ""]
 
@@ -177,12 +177,11 @@ class HBNBCommand(cmd.Cmd):
         return True
 
     def emptyline(self):
-        if self.lastcmd:
-            self.lastcmd = ""
-            return self.onecmd('\n')
+        """
+        When input an emptyline make a new line.
+        """
+        pass
 
 
 if __name__ == '__main__':
-    HBNBCommand().cmdloop(
-        "==============================\
-        \n    Welcome To HBTN-BnB\n==============================\n")
+    HBNBCommand().cmdloop()
