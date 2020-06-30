@@ -6,6 +6,7 @@ from models.place import Place
 from models.amenity import Amenity
 from models.base_model import BaseModel
 
+
 class PlaceTest(unittest.TestCase):
     """
     Testing Class for `Place`
@@ -90,7 +91,8 @@ class PlaceTest(unittest.TestCase):
         uid = self.ins.id
         cl_name = self.ins.__class__.__name__
         dic = self.ins.__dict__
-        self.assertEqual(self.ins.__str__(), "[{}] ({}) {}".format(cl_name, uid, dic))
+        self.assertEqual(self.ins.__str__(),
+                         "[{}] ({}) {}".format(cl_name, uid, dic))
 
     def test_update(self):
         """test whether the update method updates an object properly"""

@@ -1,24 +1,20 @@
-#!/usr/bin/python3
 """
-Unittesting for `User`.
+Unittesting for `State`.
 """
 import unittest
-from models.user import User
 from models.base_model import BaseModel
+from models.amenity import Amenity
 
 
-class UserTest(unittest.TestCase):
+class StateTest(unittest.TestCase):
     """
-    Testing Class for `User`
+    Testing Class for `Amenity`
     """
 
     def setUp(self):
         """set up a user class model"""
-        self.ins = User()
-        self.ins.email = "andrew_kalil@gmail.com"
-        self.ins.password = "tryHarderf00l"
-        self.ins.first_name = "Andrew"
-        self.ins.last_name = "Kalil"
+        self.ins = Amenity()
+        self.ins.name = "Malambo"
 
     def test_hasattr(self):
         """check if user model has the required attributes"""
@@ -26,33 +22,27 @@ class UserTest(unittest.TestCase):
         self.assertTrue(hasattr(self.ins, "__str__"))
         self.assertTrue(hasattr(self.ins, "save"))
         self.assertTrue(hasattr(self.ins, "to_dict"))
-        self.assertTrue(hasattr(self.ins, "email"))
-        self.assertTrue(hasattr(self.ins, "password"))
-        self.assertTrue(hasattr(self.ins, "first_name"))
-        self.assertTrue(hasattr(self.ins, "last_name"))
-        self.assertTrue(hasattr(self.ins, "id"))
-        self.assertTrue(hasattr(self.ins, "created_at"))
-        self.assertTrue(hasattr(self.ins, "updated_at"))
+        self.assertTrue(hasattr(self.ins, "name"))
 
-    def test_dub_instance(self):
+    def tes_dub_instance(self):
         """check if class is subinstance of BaseClass"""
         self.assertTrue(issubclass(type(self.ins), BaseModel))
 
     def test_doc_string(self):
         """testing if docstrings exist"""
-        self.assertEqual(len(User.__doc__) > 0, True)
-        self.assertEqual(len(User.__init__.__doc__) > 0, True)
-        self.assertEqual(len(User.__str__.__doc__) > 0, True)
-        self.assertEqual(len(User.save.__doc__) > 0, True)
-        self.assertEqual(len(User.to_dict.__doc__) > 0, True)
+        self.assertEqual(len(Amenity.__doc__) > 0, True)
+        self.assertEqual(len(Amenity.__init__.__doc__) > 0, True)
+        self.assertEqual(len(Amenity.__str__.__doc__) > 0, True)
+        self.assertEqual(len(Amenity.save.__doc__) > 0, True)
+        self.assertEqual(len(Amenity.to_dict.__doc__) > 0, True)
 
     def test_instance(self):
-        """testing to see whether created instance is equal to User"""
-        self.assertTrue(isinstance(self.ins, User))
-        self.assertTrue(self.ins.__class__ == User)
+        """testing to see whether created instance is equal to State"""
+        self.assertTrue(isinstance(self.ins, Amenity))
+        self.assertTrue(self.ins.__class__ == Amenity)
 
     def test_save_method(self):
-        """testig whether save methd works for User"""
+        """testig whether save methd works for State"""
         self.ins.save()
         self.assertNotEqual(self.ins.created_at, self.ins.updated_at)
         with open("file.json", "r") as f:
@@ -78,7 +68,6 @@ class UserTest(unittest.TestCase):
 
     def test_update(self):
         """test whether the update method updates an object properly"""
-        new = User(**(self.ins.to_dict()))
-        self.assertEqual(self.ins.id, new.id)
-        self.assertEqual(self.ins.updated_at, new.updated_at)
-        self.assertEqual(self.ins.created_at, new.created_at)
+        new = Amenity(**(self.ins.to_dict()))
+        for k, v in new.to_dict().items():
+            self.assertEqual(new.to_dict()[k], self.ins.to_dict()[k])
