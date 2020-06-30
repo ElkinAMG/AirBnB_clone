@@ -39,9 +39,6 @@ class BaseModelTest(unittest.TestCase):
         """testig whether save methd works for BaseModel"""
         self.ins.save()
         self.assertNotEqual(self.ins.created_at, self.ins.updated_at)
-        with open("file.json", "r") as f:
-            lines = f.read()
-            self.assertTrue(len(lines) > 0)
 
     def test_to_dict(self):
         """test to dict method of base model"""
