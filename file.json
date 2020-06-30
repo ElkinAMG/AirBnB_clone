@@ -1,0 +1,2093 @@
+{
+    "Amenity.0081ed81-3d51-4e04-8dfc-8fc53dad5551": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:07:19.824431",
+        "id": "0081ed81-3d51-4e04-8dfc-8fc53dad5551",
+        "updated_at": "2020-06-30T15:07:19.824437"
+    },
+    "Amenity.06b0cfc9-fffa-43b4-ace0-7ed1b8afe2ae": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:07:19.804901",
+        "id": "06b0cfc9-fffa-43b4-ace0-7ed1b8afe2ae",
+        "updated_at": "2020-06-30T15:07:19.804904"
+    },
+    "Amenity.07085bf3-1d6b-4d94-b0f6-975fd6cb2e78": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:07:19.824905",
+        "id": "07085bf3-1d6b-4d94-b0f6-975fd6cb2e78",
+        "updated_at": "2020-06-30T15:07:19.824909"
+    },
+    "Amenity.20f9328f-861d-48d7-97aa-b932c3e38edc": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T14:56:16.117593",
+        "id": "20f9328f-861d-48d7-97aa-b932c3e38edc",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T14:56:16.117601"
+    },
+    "Amenity.28f90c71-f433-4319-a6ad-c924731f4019": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:02:03.536824",
+        "id": "28f90c71-f433-4319-a6ad-c924731f4019",
+        "updated_at": "2020-06-30T15:02:03.536827"
+    },
+    "Amenity.2ddc82a1-625d-4eb1-9625-1eef888d6b82": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:07:19.625254",
+        "id": "2ddc82a1-625d-4eb1-9625-1eef888d6b82",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:07:19.625259"
+    },
+    "Amenity.2e6eed6f-0adc-44ed-8e0a-2db8a76539af": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T14:56:16.343892",
+        "id": "2e6eed6f-0adc-44ed-8e0a-2db8a76539af",
+        "updated_at": "2020-06-30T14:56:16.343896"
+    },
+    "Amenity.30a67fe8-33f6-40aa-be9e-2da72ed940f2": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:02:03.402904",
+        "id": "30a67fe8-33f6-40aa-be9e-2da72ed940f2",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:02:03.402906"
+    },
+    "Amenity.3195bbe9-0260-496f-a48a-f186725ae792": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T14:56:16.343631",
+        "id": "3195bbe9-0260-496f-a48a-f186725ae792",
+        "updated_at": "2020-06-30T14:56:16.343637"
+    },
+    "Amenity.32ce194c-bf81-4542-99cb-b13146c4a99f": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T14:56:16.358315",
+        "id": "32ce194c-bf81-4542-99cb-b13146c4a99f",
+        "updated_at": "2020-06-30T14:56:16.358320"
+    },
+    "Amenity.3b23fb55-1a7d-46c8-8764-b5cd5168fd86": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:02:03.522641",
+        "id": "3b23fb55-1a7d-46c8-8764-b5cd5168fd86",
+        "updated_at": "2020-06-30T15:02:03.522643"
+    },
+    "Amenity.42e93a1f-0d88-41aa-823c-35388ff143db": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T14:56:16.344459",
+        "id": "42e93a1f-0d88-41aa-823c-35388ff143db",
+        "updated_at": "2020-06-30T14:56:16.344462"
+    },
+    "Amenity.4510bc14-a87f-4be5-98a1-a9487084082e": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T14:56:16.357967",
+        "id": "4510bc14-a87f-4be5-98a1-a9487084082e",
+        "updated_at": "2020-06-30T14:56:16.357971"
+    },
+    "Amenity.50e347d1-db0b-49ec-a221-3efd198d5894": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:02:03.522754",
+        "id": "50e347d1-db0b-49ec-a221-3efd198d5894",
+        "updated_at": "2020-06-30T15:02:03.522756"
+    },
+    "Amenity.555a9b90-a00d-415d-97e5-e1968e0d9d67": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:02:03.522298",
+        "id": "555a9b90-a00d-415d-97e5-e1968e0d9d67",
+        "updated_at": "2020-06-30T15:02:03.522300"
+    },
+    "Amenity.55990c73-552e-4f79-97b4-83004441afac": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T14:56:16.344282",
+        "id": "55990c73-552e-4f79-97b4-83004441afac",
+        "updated_at": "2020-06-30T14:56:16.344285"
+    },
+    "Amenity.57c19ab7-d8a8-4bbe-a301-d06129305dd6": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:07:19.640749",
+        "id": "57c19ab7-d8a8-4bbe-a301-d06129305dd6",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:07:19.640753"
+    },
+    "Amenity.5ef7d060-99fa-4fdd-ab10-f40e34f057ed": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T14:56:16.117775",
+        "id": "5ef7d060-99fa-4fdd-ab10-f40e34f057ed",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T14:56:16.117779"
+    },
+    "Amenity.634cdf4a-ad97-4c77-a326-1bad717894b0": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:02:03.403003",
+        "id": "634cdf4a-ad97-4c77-a326-1bad717894b0",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:02:03.403005"
+    },
+    "Amenity.66010920-b8d2-41c7-a95d-b3ec084c28c6": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:02:03.402745",
+        "id": "66010920-b8d2-41c7-a95d-b3ec084c28c6",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:02:03.402750"
+    },
+    "Amenity.677fb48f-ce68-4d31-8e62-db7c0984adb3": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:07:19.805321",
+        "id": "677fb48f-ce68-4d31-8e62-db7c0984adb3",
+        "updated_at": "2020-06-30T15:07:19.805324"
+    },
+    "Amenity.6f7b0038-37c7-4f2c-b5b3-764e481a814c": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:02:03.410505",
+        "id": "6f7b0038-37c7-4f2c-b5b3-764e481a814c",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:02:03.410508"
+    },
+    "Amenity.71319e17-3891-4b57-a038-719e7b08d860": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:02:03.403102",
+        "id": "71319e17-3891-4b57-a038-719e7b08d860",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:02:03.403119"
+    },
+    "Amenity.81c8277a-a45f-4fbe-8e1f-026555cb4d5f": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T14:56:16.018182",
+        "id": "81c8277a-a45f-4fbe-8e1f-026555cb4d5f",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T14:56:16.018184"
+    },
+    "Amenity.820a1339-0070-4ebd-bb61-bd489f6292cd": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T14:56:16.018091",
+        "id": "820a1339-0070-4ebd-bb61-bd489f6292cd",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T14:56:16.018094"
+    },
+    "Amenity.909400c2-5688-49a3-9889-475909ee4e7e": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:07:19.825141",
+        "id": "909400c2-5688-49a3-9889-475909ee4e7e",
+        "updated_at": "2020-06-30T15:07:19.825144"
+    },
+    "Amenity.9af1e7e2-435a-4837-9a51-9d9b69a23fda": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:07:19.625083",
+        "id": "9af1e7e2-435a-4837-9a51-9d9b69a23fda",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:07:19.625089"
+    },
+    "Amenity.a99c1cbb-20ea-48be-8aa4-b3954af051ce": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:02:03.522511",
+        "id": "a99c1cbb-20ea-48be-8aa4-b3954af051ce",
+        "updated_at": "2020-06-30T15:02:03.522513"
+    },
+    "Amenity.abd8d493-ab7e-401b-918b-1b6ac0a8c7c5": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:07:19.805112",
+        "id": "abd8d493-ab7e-401b-918b-1b6ac0a8c7c5",
+        "updated_at": "2020-06-30T15:07:19.805115"
+    },
+    "Amenity.b43dec03-3177-41e8-9951-d9eeb3661bc8": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T14:56:16.344085",
+        "id": "b43dec03-3177-41e8-9951-d9eeb3661bc8",
+        "updated_at": "2020-06-30T14:56:16.344088"
+    },
+    "Amenity.ba887f23-4606-46e2-95a9-1a5b8c14acec": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T14:56:16.358561",
+        "id": "ba887f23-4606-46e2-95a9-1a5b8c14acec",
+        "updated_at": "2020-06-30T14:56:16.358564"
+    },
+    "Amenity.baec59a8-5006-463f-b122-88dd7c89ccfc": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:02:03.537139",
+        "id": "baec59a8-5006-463f-b122-88dd7c89ccfc",
+        "updated_at": "2020-06-30T15:02:03.537142"
+    },
+    "Amenity.cd2ddc3b-6006-4efd-90c4-1ecaee0e278e": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T14:56:16.094232",
+        "id": "cd2ddc3b-6006-4efd-90c4-1ecaee0e278e",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T14:56:16.094240"
+    },
+    "Amenity.cd5e334e-5109-433a-97e2-d8de01e4fef3": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:02:03.536245",
+        "id": "cd5e334e-5109-433a-97e2-d8de01e4fef3",
+        "updated_at": "2020-06-30T15:02:03.536249"
+    },
+    "Amenity.cdb018c0-2681-4957-a27b-936ea7d73aaa": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:07:19.805504",
+        "id": "cdb018c0-2681-4957-a27b-936ea7d73aaa",
+        "updated_at": "2020-06-30T15:07:19.805507"
+    },
+    "Amenity.d49e80d2-ab9e-47ad-babc-58230c946787": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:02:03.410302",
+        "id": "d49e80d2-ab9e-47ad-babc-58230c946787",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:02:03.410312"
+    },
+    "Amenity.d525bdf1-f801-4278-a078-dd7a23642074": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:02:03.410661",
+        "id": "d525bdf1-f801-4278-a078-dd7a23642074",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:02:03.410665"
+    },
+    "Amenity.e9df1d0c-0b06-4ac3-938b-f2465f39ed15": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:07:19.625378",
+        "id": "e9df1d0c-0b06-4ac3-938b-f2465f39ed15",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:07:19.625381"
+    },
+    "Amenity.ed19e882-3cdb-44b3-bbd8-8c9dc6cfab7b": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:07:19.625498",
+        "id": "ed19e882-3cdb-44b3-bbd8-8c9dc6cfab7b",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:07:19.625527"
+    },
+    "Amenity.eea43864-142a-4d04-9248-0ff066405d37": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T14:56:16.017846",
+        "id": "eea43864-142a-4d04-9248-0ff066405d37",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T14:56:16.017866"
+    },
+    "Amenity.eeec26c9-856d-476b-abff-f22aec9c2322": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T14:56:16.018264",
+        "id": "eeec26c9-856d-476b-abff-f22aec9c2322",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T14:56:16.018278"
+    },
+    "Amenity.f6e61379-b71d-45a7-b183-e2c6b286f449": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:07:19.640910",
+        "id": "f6e61379-b71d-45a7-b183-e2c6b286f449",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:07:19.640914"
+    },
+    "Amenity.fd701b5c-2566-4788-88b4-0aa398a09386": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:07:19.640469",
+        "id": "fd701b5c-2566-4788-88b4-0aa398a09386",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:07:19.640475"
+    },
+    "Amenity.fee25ae1-57d2-4f58-ba64-2734ab0d66a2": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:02:03.522920",
+        "id": "fee25ae1-57d2-4f58-ba64-2734ab0d66a2",
+        "updated_at": "2020-06-30T15:02:03.522922"
+    },
+    "Amenity.ffb683c4-5593-486f-ba98-f1bbc5429748": {
+        "__class__": "Amenity",
+        "created_at": "2020-06-30T15:07:19.804632",
+        "id": "ffb683c4-5593-486f-ba98-f1bbc5429748",
+        "updated_at": "2020-06-30T15:07:19.804636"
+    },
+    "BaseModel.0f9aeef9-4834-4984-a237-aa17d3f2c856": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T15:02:03.411542",
+        "id": "0f9aeef9-4834-4984-a237-aa17d3f2c856",
+        "updated_at": "2020-06-30T15:02:03.411569"
+    },
+    "BaseModel.1b9623f9-1377-4d80-b736-7b5664ea835f": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T14:56:16.310299",
+        "id": "1b9623f9-1377-4d80-b736-7b5664ea835f",
+        "updated_at": "2020-06-30T14:56:16.310301"
+    },
+    "BaseModel.23f3bd0b-30ac-495f-9d5a-860304d83fce": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T14:56:16.310219",
+        "id": "23f3bd0b-30ac-495f-9d5a-860304d83fce",
+        "updated_at": "2020-06-30T14:56:16.310221"
+    },
+    "BaseModel.253b08b3-c7b9-454d-afd8-442ca7cf8602": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T14:56:16.310093",
+        "id": "253b08b3-c7b9-454d-afd8-442ca7cf8602",
+        "updated_at": "2020-06-30T14:56:16.310097"
+    },
+    "BaseModel.2eca5c60-4965-45d2-aaa7-04e751d90589": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T15:02:03.421053",
+        "id": "2eca5c60-4965-45d2-aaa7-04e751d90589",
+        "updated_at": "2020-06-30T15:02:03.421058"
+    },
+    "BaseModel.32ed7a09-d9ab-4102-8bb5-d421b0b619cb": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T14:56:16.310370",
+        "id": "32ed7a09-d9ab-4102-8bb5-d421b0b619cb",
+        "updated_at": "2020-06-30T14:56:16.310383"
+    },
+    "BaseModel.44bc8bce-d97c-4758-9f21-456d94da9467": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T14:56:16.312007",
+        "id": "44bc8bce-d97c-4758-9f21-456d94da9467",
+        "updated_at": "2020-06-30T14:56:16.312010"
+    },
+    "BaseModel.70e1c39a-62e1-48b6-9ebf-fa5c5aa6f40e": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T15:07:19.641416",
+        "id": "70e1c39a-62e1-48b6-9ebf-fa5c5aa6f40e",
+        "updated_at": "2020-06-30T15:07:19.641427"
+    },
+    "BaseModel.847d311b-b5b7-4db1-9c63-55e4b5f574fb": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T14:56:16.311645",
+        "id": "847d311b-b5b7-4db1-9c63-55e4b5f574fb",
+        "updated_at": "2020-06-30T14:56:16.311651"
+    },
+    "BaseModel.907acc3c-1cb1-4bb4-b91c-b57056aa1e06": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T15:02:03.420689",
+        "id": "907acc3c-1cb1-4bb4-b91c-b57056aa1e06",
+        "updated_at": "2020-06-30T15:02:03.420696"
+    },
+    "BaseModel.96684738-5ffa-4649-83a5-a7b28fa75f67": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T15:07:19.641201",
+        "id": "96684738-5ffa-4649-83a5-a7b28fa75f67",
+        "updated_at": "2020-06-30T15:07:19.641204"
+    },
+    "BaseModel.99e84910-92eb-4510-bde2-9da15be09873": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T15:07:19.656099",
+        "id": "99e84910-92eb-4510-bde2-9da15be09873",
+        "updated_at": "2020-06-30T15:07:19.656103"
+    },
+    "BaseModel.9c5712d9-ed15-4401-b893-0de347baf644": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T15:07:19.655909",
+        "id": "9c5712d9-ed15-4401-b893-0de347baf644",
+        "updated_at": "2020-06-30T15:07:19.655916"
+    },
+    "BaseModel.a7e04a8e-2018-4397-9aaa-00efad0a3945": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T15:07:19.641288",
+        "id": "a7e04a8e-2018-4397-9aaa-00efad0a3945",
+        "updated_at": "2020-06-30T15:07:19.641290"
+    },
+    "BaseModel.a800aeea-29a1-4d37-91e9-2be26216dcbf": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T15:02:03.411411",
+        "id": "a800aeea-29a1-4d37-91e9-2be26216dcbf",
+        "updated_at": "2020-06-30T15:02:03.411420"
+    },
+    "BaseModel.adabccfa-ac70-442a-9935-2de5d2366fcf": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T15:07:19.641355",
+        "id": "adabccfa-ac70-442a-9935-2de5d2366fcf",
+        "updated_at": "2020-06-30T15:07:19.641356"
+    },
+    "BaseModel.bc23e197-c963-483b-b88a-81667eb05288": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T15:02:03.420896",
+        "id": "bc23e197-c963-483b-b88a-81667eb05288",
+        "updated_at": "2020-06-30T15:02:03.420900"
+    },
+    "BaseModel.c2c6dea4-a4b7-4ac5-b492-49ccc4491749": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T14:56:16.311836",
+        "id": "c2c6dea4-a4b7-4ac5-b492-49ccc4491749",
+        "updated_at": "2020-06-30T14:56:16.311843"
+    },
+    "BaseModel.f1e05945-04a5-423e-8e5d-ab44469238d2": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T15:02:03.411277",
+        "id": "f1e05945-04a5-423e-8e5d-ab44469238d2",
+        "updated_at": "2020-06-30T15:02:03.411285"
+    },
+    "BaseModel.f35d8240-9b48-46c2-8d8f-bb9c291871a4": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T15:07:19.656261",
+        "id": "f35d8240-9b48-46c2-8d8f-bb9c291871a4",
+        "updated_at": "2020-06-30T15:07:19.656265"
+    },
+    "BaseModel.fab9eff5-af2c-432c-9157-88598d46a9d4": {
+        "__class__": "BaseModel",
+        "created_at": "2020-06-30T15:02:03.411133",
+        "id": "fab9eff5-af2c-432c-9157-88598d46a9d4",
+        "updated_at": "2020-06-30T15:02:03.411137"
+    },
+    "City.25848bec-f3b6-4004-a3c3-f7a083ce3f4b": {
+        "__class__": "City",
+        "created_at": "2020-06-30T15:02:03.432641",
+        "id": "25848bec-f3b6-4004-a3c3-f7a083ce3f4b",
+        "name": "Barranquilla",
+        "state_id": "1819c4f7-56ac-46a5-b751-dde774960687",
+        "updated_at": "2020-06-30T15:02:03.432645"
+    },
+    "City.3692b598-a52a-4e35-800f-77dcd0abc91a": {
+        "__class__": "City",
+        "created_at": "2020-06-30T15:07:19.672157",
+        "id": "3692b598-a52a-4e35-800f-77dcd0abc91a",
+        "name": "Barranquilla",
+        "state_id": "4a9e0c02-8a9a-4847-a7de-79417c7e33e8",
+        "updated_at": "2020-06-30T15:07:19.672161"
+    },
+    "City.36a8f776-8b3e-482a-8d98-3c262672ab69": {
+        "__class__": "City",
+        "created_at": "2020-06-30T15:02:03.422403",
+        "id": "36a8f776-8b3e-482a-8d98-3c262672ab69",
+        "name": "Barranquilla",
+        "state_id": "0a164367-ebf1-4ef9-836c-3ac48d8ca141",
+        "updated_at": "2020-06-30T15:02:03.422431"
+    },
+    "City.44bfac57-8f12-43cc-aebd-256dd69aec98": {
+        "__class__": "City",
+        "created_at": "2020-06-30T14:56:16.312646",
+        "id": "44bfac57-8f12-43cc-aebd-256dd69aec98",
+        "name": "Barranquilla",
+        "state_id": "7821163b-07fc-4e72-8cee-e24e07c8054f",
+        "updated_at": "2020-06-30T14:56:16.312654"
+    },
+    "City.54e0c579-e2ab-4b7f-bd04-18c0b14f9ec8": {
+        "__class__": "City",
+        "created_at": "2020-06-30T15:07:19.657088",
+        "id": "54e0c579-e2ab-4b7f-bd04-18c0b14f9ec8",
+        "name": "Barranquilla",
+        "state_id": "e447d4bd-c594-4e67-beb6-0b5dec6730b0",
+        "updated_at": "2020-06-30T15:07:19.657091"
+    },
+    "City.64658156-b9d6-4b03-b1ff-eed2b1fa5720": {
+        "__class__": "City",
+        "created_at": "2020-06-30T14:56:16.314630",
+        "id": "64658156-b9d6-4b03-b1ff-eed2b1fa5720",
+        "name": "Barranquilla",
+        "state_id": "3612dd74-1cf7-4aca-9445-b2374f34fedd",
+        "updated_at": "2020-06-30T14:56:16.314638"
+    },
+    "City.65c8b4c0-5746-45c8-8fd1-8455313d0e9d": {
+        "__class__": "City",
+        "created_at": "2020-06-30T15:07:19.657244",
+        "id": "65c8b4c0-5746-45c8-8fd1-8455313d0e9d",
+        "name": "Barranquilla",
+        "state_id": "a2d83a7a-2196-433d-830c-49e87cc13cad",
+        "updated_at": "2020-06-30T15:07:19.657248"
+    },
+    "City.6a5f8e1a-ca8c-4422-8119-0674fcbb3a6b": {
+        "__class__": "City",
+        "created_at": "2020-06-30T15:02:03.422199",
+        "id": "6a5f8e1a-ca8c-4422-8119-0674fcbb3a6b",
+        "name": "Barranquilla",
+        "state_id": "4d7d039b-4072-45b4-961b-a70ed8dae0ac",
+        "updated_at": "2020-06-30T15:02:03.422202"
+    },
+    "City.6e5b1e88-11b3-4d55-b122-bc0475a67ac2": {
+        "__class__": "City",
+        "created_at": "2020-06-30T14:56:16.312793",
+        "id": "6e5b1e88-11b3-4d55-b122-bc0475a67ac2",
+        "name": "Barranquilla",
+        "state_id": "ba8c3718-e9d6-4c00-9327-7badc4848b03",
+        "updated_at": "2020-06-30T14:56:16.312840"
+    },
+    "City.93bc0d46-0c75-42c9-afe5-d41153e8f0e3": {
+        "__class__": "City",
+        "created_at": "2020-06-30T14:56:16.314806",
+        "id": "93bc0d46-0c75-42c9-afe5-d41153e8f0e3",
+        "name": "Barranquilla",
+        "state_id": "4b282a72-8beb-4a32-86c0-5a30dfe524e8",
+        "updated_at": "2020-06-30T14:56:16.314809"
+    },
+    "City.9fac8512-522f-481f-9312-ae1b00cf1f9d": {
+        "__class__": "City",
+        "created_at": "2020-06-30T15:02:03.432469",
+        "id": "9fac8512-522f-481f-9312-ae1b00cf1f9d",
+        "name": "Barranquilla",
+        "state_id": "c224599f-dea5-4db4-9f9c-e47557c45803",
+        "updated_at": "2020-06-30T15:02:03.432472"
+    },
+    "City.a650cf11-8f10-4dc6-a627-c7b5c0889086": {
+        "__class__": "City",
+        "created_at": "2020-06-30T15:02:03.432216",
+        "id": "a650cf11-8f10-4dc6-a627-c7b5c0889086",
+        "name": "Barranquilla",
+        "state_id": "49c8137f-9f84-48c9-9843-d07df1e6dcf3",
+        "updated_at": "2020-06-30T15:02:03.432223"
+    },
+    "City.acb5463b-0e87-4b10-966d-01a7326f7468": {
+        "__class__": "City",
+        "created_at": "2020-06-30T14:56:16.314420",
+        "id": "acb5463b-0e87-4b10-966d-01a7326f7468",
+        "name": "Barranquilla",
+        "state_id": "c72fa6c9-76a5-494d-bbc0-b058b8d34b2a",
+        "updated_at": "2020-06-30T14:56:16.314433"
+    },
+    "City.b3a35a76-361b-4ec4-955a-c70c2535fd34": {
+        "__class__": "City",
+        "created_at": "2020-06-30T15:02:03.422053",
+        "id": "b3a35a76-361b-4ec4-955a-c70c2535fd34",
+        "name": "Barranquilla",
+        "state_id": "77cda566-8910-4f07-9879-26033e57706b",
+        "updated_at": "2020-06-30T15:02:03.422058"
+    },
+    "City.b6220c12-d009-409a-ae54-c6772ffdabef": {
+        "__class__": "City",
+        "created_at": "2020-06-30T15:02:03.422297",
+        "id": "b6220c12-d009-409a-ae54-c6772ffdabef",
+        "name": "Barranquilla",
+        "state_id": "c60058b6-ae56-4780-9a0b-ba4c0042a865",
+        "updated_at": "2020-06-30T15:02:03.422299"
+    },
+    "City.ba176a50-bd0c-4b6e-8344-825b7533d56e": {
+        "__class__": "City",
+        "created_at": "2020-06-30T15:07:19.671950",
+        "id": "ba176a50-bd0c-4b6e-8344-825b7533d56e",
+        "name": "Barranquilla",
+        "state_id": "8512e9a5-9d05-41c6-b36f-08e94fe3753f",
+        "updated_at": "2020-06-30T15:07:19.671956"
+    },
+    "City.bf044c17-032e-4bcb-9fd2-26e60f4ac6f0": {
+        "__class__": "City",
+        "created_at": "2020-06-30T15:07:19.672362",
+        "id": "bf044c17-032e-4bcb-9fd2-26e60f4ac6f0",
+        "name": "Barranquilla",
+        "state_id": "cfab52ef-c94e-4865-91ac-e5369039e9a0",
+        "updated_at": "2020-06-30T15:07:19.672366"
+    },
+    "City.c8c839cc-1379-4e8c-a008-c57f10c5f839": {
+        "__class__": "City",
+        "created_at": "2020-06-30T15:07:19.657409",
+        "id": "c8c839cc-1379-4e8c-a008-c57f10c5f839",
+        "name": "Barranquilla",
+        "state_id": "a331a1d5-0798-4c5b-9a4d-2096c2f92f3d",
+        "updated_at": "2020-06-30T15:07:19.657461"
+    },
+    "City.cfeef3fb-2bb1-4599-a44b-af4b93446442": {
+        "__class__": "City",
+        "created_at": "2020-06-30T14:56:16.312498",
+        "id": "cfeef3fb-2bb1-4599-a44b-af4b93446442",
+        "name": "Barranquilla",
+        "state_id": "b260c15d-a4b9-438b-915d-865db665b584",
+        "updated_at": "2020-06-30T14:56:16.312504"
+    },
+    "City.d95e25d1-3a11-4e10-b909-2f40705f7a3b": {
+        "__class__": "City",
+        "created_at": "2020-06-30T15:07:19.656814",
+        "id": "d95e25d1-3a11-4e10-b909-2f40705f7a3b",
+        "name": "Barranquilla",
+        "state_id": "ce43f2d0-0571-4d65-bc24-0968d4b9bf13",
+        "updated_at": "2020-06-30T15:07:19.656819"
+    },
+    "City.e02fe155-ba6d-4577-96a3-82ba9f81d701": {
+        "__class__": "City",
+        "created_at": "2020-06-30T14:56:16.312343",
+        "id": "e02fe155-ba6d-4577-96a3-82ba9f81d701",
+        "name": "Barranquilla",
+        "state_id": "01c3d78c-ac41-4f34-9faa-5bf02f945b76",
+        "updated_at": "2020-06-30T14:56:16.312346"
+    },
+    "Place.0128d640-0dc0-49e0-a055-8e7d2c66a235": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T15:02:03.538597",
+        "id": "0128d640-0dc0-49e0-a055-8e7d2c66a235",
+        "updated_at": "2020-06-30T15:02:03.538600"
+    },
+    "Place.06fc0806-1a20-4dd8-82a6-f0c17e5043d6": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T15:02:03.552457",
+        "id": "06fc0806-1a20-4dd8-82a6-f0c17e5043d6",
+        "updated_at": "2020-06-30T15:02:03.552458"
+    },
+    "Place.13c6a5e2-349f-4841-9d64-7c3852f8d4e9": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T15:02:03.552005",
+        "id": "13c6a5e2-349f-4841-9d64-7c3852f8d4e9",
+        "updated_at": "2020-06-30T15:02:03.552009"
+    },
+    "Place.265cbae7-dda9-4ca2-b8f5-86354a911bd1": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T15:02:03.538016",
+        "id": "265cbae7-dda9-4ca2-b8f5-86354a911bd1",
+        "updated_at": "2020-06-30T15:02:03.538020"
+    },
+    "Place.298cea52-2f97-44cc-96e8-281b48c69ad6": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T14:56:16.359859",
+        "id": "298cea52-2f97-44cc-96e8-281b48c69ad6",
+        "updated_at": "2020-06-30T14:56:16.359861"
+    },
+    "Place.2c3b7b4a-60f8-46a6-b7fb-8fc7268ba71c": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "a99c1cbb-20ea-48be-8aa4-b3954af051ce",
+            "a99c1cbb-20ea-48be-8aa4-b3954af051ce"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:02:03.522470",
+        "description": "Christmas holiday stay",
+        "id": "2c3b7b4a-60f8-46a6-b7fb-8fc7268ba71c",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:02:03.522474",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.35aaf31f-bc3a-4526-b602-5f10e8387a9a": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "3b23fb55-1a7d-46c8-8764-b5cd5168fd86",
+            "3b23fb55-1a7d-46c8-8764-b5cd5168fd86"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:02:03.522620",
+        "description": "Christmas holiday stay",
+        "id": "35aaf31f-bc3a-4526-b602-5f10e8387a9a",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:02:03.522622",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.3d4a82eb-534c-44f9-8cbc-3ce4463c4198": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "cd5e334e-5109-433a-97e2-d8de01e4fef3",
+            "cd5e334e-5109-433a-97e2-d8de01e4fef3"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:02:03.536189",
+        "description": "Christmas holiday stay",
+        "id": "3d4a82eb-534c-44f9-8cbc-3ce4463c4198",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:02:03.536197",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.3f710b19-76cb-4e93-b4e1-3147e3ef1551": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "0081ed81-3d51-4e04-8dfc-8fc53dad5551",
+            "0081ed81-3d51-4e04-8dfc-8fc53dad5551"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:07:19.824281",
+        "description": "Christmas holiday stay",
+        "id": "3f710b19-76cb-4e93-b4e1-3147e3ef1551",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:07:19.824288",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.4a0a0795-392c-4759-83d3-e98bffe31c1e": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "909400c2-5688-49a3-9889-475909ee4e7e",
+            "909400c2-5688-49a3-9889-475909ee4e7e"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:07:19.825104",
+        "description": "Christmas holiday stay",
+        "id": "4a0a0795-392c-4759-83d3-e98bffe31c1e",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:07:19.825107",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.545d8931-da84-40c4-b429-615931d759b3": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T15:07:19.826316",
+        "id": "545d8931-da84-40c4-b429-615931d759b3",
+        "updated_at": "2020-06-30T15:07:19.826318"
+    },
+    "Place.562e0704-c3f1-455b-aee7-4d7816061f4d": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T14:56:16.369059",
+        "id": "562e0704-c3f1-455b-aee7-4d7816061f4d",
+        "updated_at": "2020-06-30T14:56:16.369062"
+    },
+    "Place.577bbe5c-f179-4793-b607-3377562d3b68": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T15:02:03.538249",
+        "id": "577bbe5c-f179-4793-b607-3377562d3b68",
+        "updated_at": "2020-06-30T15:02:03.538252"
+    },
+    "Place.6365e932-0084-415b-a160-94c051bc897b": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "baec59a8-5006-463f-b122-88dd7c89ccfc",
+            "baec59a8-5006-463f-b122-88dd7c89ccfc"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:02:03.537094",
+        "description": "Christmas holiday stay",
+        "id": "6365e932-0084-415b-a160-94c051bc897b",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:02:03.537099",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.6d754dee-5e47-4d58-8cdf-86a119bb802e": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T15:07:19.845681",
+        "id": "6d754dee-5e47-4d58-8cdf-86a119bb802e",
+        "updated_at": "2020-06-30T15:07:19.845684"
+    },
+    "Place.7be9115a-0048-4162-967a-abdc872f5570": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "32ce194c-bf81-4542-99cb-b13146c4a99f",
+            "32ce194c-bf81-4542-99cb-b13146c4a99f"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T14:56:16.358266",
+        "description": "Christmas holiday stay",
+        "id": "7be9115a-0048-4162-967a-abdc872f5570",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T14:56:16.358271",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.7e325891-dce8-4778-bd33-b0cbac82fa73": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "cdb018c0-2681-4957-a27b-936ea7d73aaa",
+            "cdb018c0-2681-4957-a27b-936ea7d73aaa"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:07:19.805469",
+        "description": "Christmas holiday stay",
+        "id": "7e325891-dce8-4778-bd33-b0cbac82fa73",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:07:19.805535",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.80952f5c-8920-4194-bc28-973237fc4a9f": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T15:07:19.846098",
+        "id": "80952f5c-8920-4194-bc28-973237fc4a9f",
+        "updated_at": "2020-06-30T15:07:19.846100"
+    },
+    "Place.81ae4aab-061f-41d7-8cee-1b6b99e11155": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "50e347d1-db0b-49ec-a221-3efd198d5894",
+            "50e347d1-db0b-49ec-a221-3efd198d5894"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:02:03.522736",
+        "description": "Christmas holiday stay",
+        "id": "81ae4aab-061f-41d7-8cee-1b6b99e11155",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:02:03.522738",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.8ae569e9-1a1e-4546-89fb-3026858ae857": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "06b0cfc9-fffa-43b4-ace0-7ed1b8afe2ae",
+            "06b0cfc9-fffa-43b4-ace0-7ed1b8afe2ae"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:07:19.804854",
+        "description": "Christmas holiday stay",
+        "id": "8ae569e9-1a1e-4546-89fb-3026858ae857",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:07:19.804858",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.8b5fbf93-82c1-496a-b678-cc7604e3d346": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "b43dec03-3177-41e8-9951-d9eeb3661bc8",
+            "b43dec03-3177-41e8-9951-d9eeb3661bc8"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T14:56:16.344042",
+        "description": "Christmas holiday stay",
+        "id": "8b5fbf93-82c1-496a-b678-cc7604e3d346",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T14:56:16.344046",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.90dafefb-07e1-4ac5-8c42-1f505a5296fe": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "ba887f23-4606-46e2-95a9-1a5b8c14acec",
+            "ba887f23-4606-46e2-95a9-1a5b8c14acec"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T14:56:16.358522",
+        "description": "Christmas holiday stay",
+        "id": "90dafefb-07e1-4ac5-8c42-1f505a5296fe",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T14:56:16.358527",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.9fc4039b-df71-456f-b0ea-803208f7cf61": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "3195bbe9-0260-496f-a48a-f186725ae792",
+            "3195bbe9-0260-496f-a48a-f186725ae792"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T14:56:16.343539",
+        "description": "Christmas holiday stay",
+        "id": "9fc4039b-df71-456f-b0ea-803208f7cf61",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T14:56:16.343546",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.a4e54337-cb38-42fa-8b45-c6d060ef99bd": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T15:07:19.826086",
+        "id": "a4e54337-cb38-42fa-8b45-c6d060ef99bd",
+        "updated_at": "2020-06-30T15:07:19.826089"
+    },
+    "Place.a8805321-b360-4a67-a225-324bfc2dac7f": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T15:02:03.552302",
+        "id": "a8805321-b360-4a67-a225-324bfc2dac7f",
+        "updated_at": "2020-06-30T15:02:03.552304"
+    },
+    "Place.ab04300e-7447-4921-87ce-6adafd45f093": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "fee25ae1-57d2-4f58-ba64-2734ab0d66a2",
+            "fee25ae1-57d2-4f58-ba64-2734ab0d66a2"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:02:03.522885",
+        "description": "Christmas holiday stay",
+        "id": "ab04300e-7447-4921-87ce-6adafd45f093",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:02:03.522944",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.ab25af63-6f63-42f6-bde4-122438ecf119": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T14:56:16.359642",
+        "id": "ab25af63-6f63-42f6-bde4-122438ecf119",
+        "updated_at": "2020-06-30T14:56:16.359645"
+    },
+    "Place.ad599849-e9aa-4077-88a5-f41a37a2fe56": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T14:56:16.367971",
+        "id": "ad599849-e9aa-4077-88a5-f41a37a2fe56",
+        "updated_at": "2020-06-30T14:56:16.367975"
+    },
+    "Place.b8b3e274-f6a0-454c-bd7f-af6e67a6608e": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T14:56:16.359389",
+        "id": "b8b3e274-f6a0-454c-bd7f-af6e67a6608e",
+        "updated_at": "2020-06-30T14:56:16.359392"
+    },
+    "Place.bbd2661e-5dd8-4c4b-944e-b2788260aaf7": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T14:56:16.360077",
+        "id": "bbd2661e-5dd8-4c4b-944e-b2788260aaf7",
+        "updated_at": "2020-06-30T14:56:16.360079"
+    },
+    "Place.bcdfa6ce-9672-4a29-94a7-52da4a720072": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "2e6eed6f-0adc-44ed-8e0a-2db8a76539af",
+            "2e6eed6f-0adc-44ed-8e0a-2db8a76539af"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T14:56:16.343848",
+        "description": "Christmas holiday stay",
+        "id": "bcdfa6ce-9672-4a29-94a7-52da4a720072",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T14:56:16.343853",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.c3b0a06b-3eca-4dc6-9466-5bed83e5a8ca": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "55990c73-552e-4f79-97b4-83004441afac",
+            "55990c73-552e-4f79-97b4-83004441afac"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T14:56:16.344239",
+        "description": "Christmas holiday stay",
+        "id": "c3b0a06b-3eca-4dc6-9466-5bed83e5a8ca",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T14:56:16.344243",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.c3d33a29-7944-42ab-9bc1-bdc87b79bd8c": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T15:02:03.538435",
+        "id": "c3d33a29-7944-42ab-9bc1-bdc87b79bd8c",
+        "updated_at": "2020-06-30T15:02:03.538437"
+    },
+    "Place.c5bf60f4-aa03-487c-8091-5d58cad245f2": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "07085bf3-1d6b-4d94-b0f6-975fd6cb2e78",
+            "07085bf3-1d6b-4d94-b0f6-975fd6cb2e78"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:07:19.824859",
+        "description": "Christmas holiday stay",
+        "id": "c5bf60f4-aa03-487c-8091-5d58cad245f2",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:07:19.824864",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.ce5caae7-20f0-4fcd-b114-32af145ad8b3": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "555a9b90-a00d-415d-97e5-e1968e0d9d67",
+            "555a9b90-a00d-415d-97e5-e1968e0d9d67"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:02:03.522244",
+        "description": "Christmas holiday stay",
+        "id": "ce5caae7-20f0-4fcd-b114-32af145ad8b3",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:02:03.522249",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.d701bb2e-bc6c-47ef-88fd-7dd283e4dc3c": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T15:07:19.846582",
+        "id": "d701bb2e-bc6c-47ef-88fd-7dd283e4dc3c",
+        "updated_at": "2020-06-30T15:07:19.846584"
+    },
+    "Place.dbdf70b5-ab87-438d-9376-2a810d30a8f0": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "677fb48f-ce68-4d31-8e62-db7c0984adb3",
+            "677fb48f-ce68-4d31-8e62-db7c0984adb3"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:07:19.805285",
+        "description": "Christmas holiday stay",
+        "id": "dbdf70b5-ab87-438d-9376-2a810d30a8f0",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:07:19.805289",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.de1681f1-b481-41e4-92e4-884bd5c59c06": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T15:07:19.826693",
+        "id": "de1681f1-b481-41e4-92e4-884bd5c59c06",
+        "updated_at": "2020-06-30T15:07:19.826696"
+    },
+    "Place.ebd30ea5-7435-461b-9a43-ebf9845dd1d1": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "42e93a1f-0d88-41aa-823c-35388ff143db",
+            "42e93a1f-0d88-41aa-823c-35388ff143db"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T14:56:16.344417",
+        "description": "Christmas holiday stay",
+        "id": "ebd30ea5-7435-461b-9a43-ebf9845dd1d1",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T14:56:16.344481",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.f25f3f96-7ce6-47a5-9abf-1a0e437f24e6": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "28f90c71-f433-4319-a6ad-c924731f4019",
+            "28f90c71-f433-4319-a6ad-c924731f4019"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:02:03.536774",
+        "description": "Christmas holiday stay",
+        "id": "f25f3f96-7ce6-47a5-9abf-1a0e437f24e6",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:02:03.536780",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.f71e76f6-e60a-48e5-be5c-1aeb163534a1": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "ffb683c4-5593-486f-ba98-f1bbc5429748",
+            "ffb683c4-5593-486f-ba98-f1bbc5429748"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:07:19.804595",
+        "description": "Christmas holiday stay",
+        "id": "f71e76f6-e60a-48e5-be5c-1aeb163534a1",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:07:19.804599",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.f79335c3-ded7-4880-adaf-d542d1077be0": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "abd8d493-ab7e-401b-918b-1b6ac0a8c7c5",
+            "abd8d493-ab7e-401b-918b-1b6ac0a8c7c5"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T15:07:19.805073",
+        "description": "Christmas holiday stay",
+        "id": "f79335c3-ded7-4880-adaf-d542d1077be0",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T15:07:19.805077",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Place.fdacf909-2435-4b17-beb9-cb3b221496ae": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T15:07:19.826516",
+        "id": "fdacf909-2435-4b17-beb9-cb3b221496ae",
+        "updated_at": "2020-06-30T15:07:19.826518"
+    },
+    "Place.fe586474-fa5c-4ade-b563-4a8f28a329e3": {
+        "__class__": "Place",
+        "created_at": "2020-06-30T14:56:16.373034",
+        "id": "fe586474-fa5c-4ade-b563-4a8f28a329e3",
+        "updated_at": "2020-06-30T14:56:16.373038"
+    },
+    "Place.fefc0992-777e-46fc-b6b2-877412e31bc6": {
+        "__class__": "Place",
+        "amenity_ids": [
+            "4510bc14-a87f-4be5-98a1-a9487084082e",
+            "4510bc14-a87f-4be5-98a1-a9487084082e"
+        ],
+        "city_id": "Barranquilla",
+        "created_at": "2020-06-30T14:56:16.357891",
+        "description": "Christmas holiday stay",
+        "id": "fefc0992-777e-46fc-b6b2-877412e31bc6",
+        "latitude": 10.5,
+        "longitude": 89.3,
+        "max_guest": 6,
+        "name": "Andrew",
+        "number_bathrooms": 2,
+        "number_rooms": 2,
+        "price_by_night": 55,
+        "updated_at": "2020-06-30T14:56:16.357899",
+        "user_id": "1234-1234-abcd-1234"
+    },
+    "Review.14cb782a-df06-4ded-9155-80ccde663b00": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T15:02:03.552439",
+        "id": "14cb782a-df06-4ded-9155-80ccde663b00",
+        "place_id": "06fc0806-1a20-4dd8-82a6-f0c17e5043d6",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T15:02:03.552442",
+        "user_id": "0f1570f8-e77a-4eee-8b67-11216787e2ad"
+    },
+    "Review.18a19c00-ee8e-4eea-b469-de9d5d4fcd0f": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T15:07:19.826288",
+        "id": "18a19c00-ee8e-4eea-b469-de9d5d4fcd0f",
+        "place_id": "545d8931-da84-40c4-b429-615931d759b3",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T15:07:19.826292",
+        "user_id": "9568b426-9737-4863-a862-63d53aa9e7a7"
+    },
+    "Review.33c63d20-368c-41d8-92a1-c5ac9ec878cd": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T15:02:03.537973",
+        "id": "33c63d20-368c-41d8-92a1-c5ac9ec878cd",
+        "place_id": "265cbae7-dda9-4ca2-b8f5-86354a911bd1",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T15:02:03.537979",
+        "user_id": "92e11cd6-322c-4d94-8b7a-b3b40bc6ea6f"
+    },
+    "Review.4e5c4014-870c-4bad-a917-b63132d404d3": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T14:56:16.372976",
+        "id": "4e5c4014-870c-4bad-a917-b63132d404d3",
+        "place_id": "fe586474-fa5c-4ade-b563-4a8f28a329e3",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T14:56:16.372985",
+        "user_id": "de8c0db4-27fe-4cea-89cc-2f0b9cc882c5"
+    },
+    "Review.530d39e8-83c8-4d56-9395-cf31b99d3b04": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T15:07:19.846064",
+        "id": "530d39e8-83c8-4d56-9395-cf31b99d3b04",
+        "place_id": "80952f5c-8920-4194-bc28-973237fc4a9f",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T15:07:19.846069",
+        "user_id": "02e3a031-2d98-4ef1-9707-9928c9a7dae8"
+    },
+    "Review.5515d62b-f045-432c-9be8-e6112bfdcb0e": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T15:07:19.846542",
+        "id": "5515d62b-f045-432c-9be8-e6112bfdcb0e",
+        "place_id": "d701bb2e-bc6c-47ef-88fd-7dd283e4dc3c",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T15:07:19.846547",
+        "user_id": "83fc06ed-a146-44d9-876f-6b596716e873"
+    },
+    "Review.58fed18d-b30c-4523-a1f0-427f534720f6": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T15:07:19.845629",
+        "id": "58fed18d-b30c-4523-a1f0-427f534720f6",
+        "place_id": "6d754dee-5e47-4d58-8cdf-86a119bb802e",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T15:07:19.845636",
+        "user_id": "f6db41ee-d204-4b80-99b5-58cdb6868735"
+    },
+    "Review.5f764518-8ea6-46a4-9e9e-95578feb4119": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T15:07:19.826662",
+        "id": "5f764518-8ea6-46a4-9e9e-95578feb4119",
+        "place_id": "de1681f1-b481-41e4-92e4-884bd5c59c06",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T15:07:19.826741",
+        "user_id": "8be4cb83-ee26-48f9-8efb-7d729c80c948"
+    },
+    "Review.61d0b86a-c4ad-4dec-935f-04cc3a1c28ef": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T15:07:19.826044",
+        "id": "61d0b86a-c4ad-4dec-935f-04cc3a1c28ef",
+        "place_id": "a4e54337-cb38-42fa-8b45-c6d060ef99bd",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T15:07:19.826050",
+        "user_id": "0ced54b7-816c-46fb-9972-465b22e43054"
+    },
+    "Review.63721bf3-1b3a-44df-a88a-f951b7e45507": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T14:56:16.369009",
+        "id": "63721bf3-1b3a-44df-a88a-f951b7e45507",
+        "place_id": "562e0704-c3f1-455b-aee7-4d7816061f4d",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T14:56:16.369017",
+        "user_id": "775f403c-93fb-449c-b254-61965314c239"
+    },
+    "Review.7f7837ae-61f1-4a62-8bd0-f6da82044150": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T15:02:03.538405",
+        "id": "7f7837ae-61f1-4a62-8bd0-f6da82044150",
+        "place_id": "c3d33a29-7944-42ab-9bc1-bdc87b79bd8c",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T15:02:03.538408",
+        "user_id": "dddccd7b-3c22-4c61-a04e-c0dd740e9632"
+    },
+    "Review.8dfe00c3-1f40-4d4e-bee3-bef1f261d09b": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T15:02:03.538573",
+        "id": "8dfe00c3-1f40-4d4e-bee3-bef1f261d09b",
+        "place_id": "0128d640-0dc0-49e0-a055-8e7d2c66a235",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T15:02:03.538652",
+        "user_id": "a61078b1-2b47-4f7f-8185-fd6ad3991b5f"
+    },
+    "Review.91887ade-1d1e-474d-84db-78b5da44c62a": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T15:02:03.551957",
+        "id": "91887ade-1d1e-474d-84db-78b5da44c62a",
+        "place_id": "13c6a5e2-349f-4841-9d64-7c3852f8d4e9",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T15:02:03.551963",
+        "user_id": "397eda6c-448d-4a28-b928-bd9421849515"
+    },
+    "Review.9ec9ff9f-7c37-4dce-8a07-6694b4219671": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T14:56:16.359827",
+        "id": "9ec9ff9f-7c37-4dce-8a07-6694b4219671",
+        "place_id": "298cea52-2f97-44cc-96e8-281b48c69ad6",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T14:56:16.359831",
+        "user_id": "12f22879-e7a2-4a4e-adf4-b9f05a2c39d1"
+    },
+    "Review.a6c8bcd5-155b-49a2-95b7-0c869f69a731": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T15:02:03.552264",
+        "id": "a6c8bcd5-155b-49a2-95b7-0c869f69a731",
+        "place_id": "a8805321-b360-4a67-a225-324bfc2dac7f",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T15:02:03.552271",
+        "user_id": "7651ad83-db39-487d-9e31-798f9971f602"
+    },
+    "Review.d25b2d85-a65d-45ab-8132-2cd50f9e8914": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T15:02:03.538220",
+        "id": "d25b2d85-a65d-45ab-8132-2cd50f9e8914",
+        "place_id": "577bbe5c-f179-4793-b607-3377562d3b68",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T15:02:03.538223",
+        "user_id": "6ee6a876-ed78-4ca0-9819-9bd1488019ff"
+    },
+    "Review.ddd57a9b-3e28-4362-aa30-88435a18612c": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T14:56:16.359345",
+        "id": "ddd57a9b-3e28-4362-aa30-88435a18612c",
+        "place_id": "b8b3e274-f6a0-454c-bd7f-af6e67a6608e",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T14:56:16.359351",
+        "user_id": "b8ff73f4-2563-4bdb-914e-7d7ab6d5cb36"
+    },
+    "Review.e61a6569-e508-45cd-8370-1aa82c932c06": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T14:56:16.359609",
+        "id": "e61a6569-e508-45cd-8370-1aa82c932c06",
+        "place_id": "ab25af63-6f63-42f6-bde4-122438ecf119",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T14:56:16.359612",
+        "user_id": "0d3382cc-2429-48e8-9705-2e3d9b6aeb1d"
+    },
+    "Review.e717ee2b-6da4-4fba-b82c-eaba33e867b0": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T14:56:16.360039",
+        "id": "e717ee2b-6da4-4fba-b82c-eaba33e867b0",
+        "place_id": "bbd2661e-5dd8-4c4b-944e-b2788260aaf7",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T14:56:16.360121",
+        "user_id": "4d40f5ce-b457-4fd0-83c8-eebbac7cba6e"
+    },
+    "Review.f007e9e0-e1bd-4c91-8813-864f523a9791": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T15:07:19.826485",
+        "id": "f007e9e0-e1bd-4c91-8813-864f523a9791",
+        "place_id": "fdacf909-2435-4b17-beb9-cb3b221496ae",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T15:07:19.826489",
+        "user_id": "6742b282-bf21-4406-bbf0-235ae27e544e"
+    },
+    "Review.f1616556-756b-45ba-a516-2fb76294189e": {
+        "__class__": "Review",
+        "created_at": "2020-06-30T14:56:16.367926",
+        "id": "f1616556-756b-45ba-a516-2fb76294189e",
+        "place_id": "ad599849-e9aa-4077-88a5-f41a37a2fe56",
+        "text": "Joda, cule vacile en ese lugar valecita",
+        "updated_at": "2020-06-30T14:56:16.367933",
+        "user_id": "3b21e8b2-b307-4d85-abf6-b84f2bd3122d"
+    },
+    "State.01c3d78c-ac41-4f34-9faa-5bf02f945b76": {
+        "__class__": "State",
+        "created_at": "2020-06-30T14:56:16.312366",
+        "id": "01c3d78c-ac41-4f34-9faa-5bf02f945b76",
+        "updated_at": "2020-06-30T14:56:16.312368"
+    },
+    "State.0a164367-ebf1-4ef9-836c-3ac48d8ca141": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:02:03.422419",
+        "id": "0a164367-ebf1-4ef9-836c-3ac48d8ca141",
+        "updated_at": "2020-06-30T15:02:03.422421"
+    },
+    "State.0d50cda1-f420-4ae4-9a58-b46a21d917c4": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:07:19.847508",
+        "id": "0d50cda1-f420-4ae4-9a58-b46a21d917c4",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:07:19.847512"
+    },
+    "State.13544444-2f2f-4c10-8b45-6eecca2d2bb0": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:07:19.847930",
+        "id": "13544444-2f2f-4c10-8b45-6eecca2d2bb0",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:07:19.847953"
+    },
+    "State.1819c4f7-56ac-46a5-b751-dde774960687": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:02:03.432677",
+        "id": "1819c4f7-56ac-46a5-b751-dde774960687",
+        "updated_at": "2020-06-30T15:02:03.432680"
+    },
+    "State.22139636-ba34-4a1f-8c0a-ea53f55f96b4": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:02:03.568243",
+        "id": "22139636-ba34-4a1f-8c0a-ea53f55f96b4",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:02:03.568248"
+    },
+    "State.304461b3-cbf1-4e32-92d2-26b0070a822e": {
+        "__class__": "State",
+        "created_at": "2020-06-30T14:56:16.374412",
+        "id": "304461b3-cbf1-4e32-92d2-26b0070a822e",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T14:56:16.374416"
+    },
+    "State.31556ffd-4938-4e6c-a04a-4aabf84c9556": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:07:19.847662",
+        "id": "31556ffd-4938-4e6c-a04a-4aabf84c9556",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:07:19.847666"
+    },
+    "State.3612dd74-1cf7-4aca-9445-b2374f34fedd": {
+        "__class__": "State",
+        "created_at": "2020-06-30T14:56:16.314672",
+        "id": "3612dd74-1cf7-4aca-9445-b2374f34fedd",
+        "updated_at": "2020-06-30T14:56:16.314675"
+    },
+    "State.49c8137f-9f84-48c9-9843-d07df1e6dcf3": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:02:03.432268",
+        "id": "49c8137f-9f84-48c9-9843-d07df1e6dcf3",
+        "updated_at": "2020-06-30T15:02:03.432276"
+    },
+    "State.4a9e0c02-8a9a-4847-a7de-79417c7e33e8": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:07:19.672189",
+        "id": "4a9e0c02-8a9a-4847-a7de-79417c7e33e8",
+        "updated_at": "2020-06-30T15:07:19.672194"
+    },
+    "State.4b282a72-8beb-4a32-86c0-5a30dfe524e8": {
+        "__class__": "State",
+        "created_at": "2020-06-30T14:56:16.314835",
+        "id": "4b282a72-8beb-4a32-86c0-5a30dfe524e8",
+        "updated_at": "2020-06-30T14:56:16.314838"
+    },
+    "State.4d7d039b-4072-45b4-961b-a70ed8dae0ac": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:02:03.422218",
+        "id": "4d7d039b-4072-45b4-961b-a70ed8dae0ac",
+        "updated_at": "2020-06-30T15:02:03.422219"
+    },
+    "State.697957ce-fc1a-41e9-bf65-56d0a79f113c": {
+        "__class__": "State",
+        "created_at": "2020-06-30T14:56:16.384528",
+        "id": "697957ce-fc1a-41e9-bf65-56d0a79f113c",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T14:56:16.384532"
+    },
+    "State.7007ed7c-9c43-4ae2-a46a-c7f632256777": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:02:03.568465",
+        "id": "7007ed7c-9c43-4ae2-a46a-c7f632256777",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:02:03.568469"
+    },
+    "State.77cda566-8910-4f07-9879-26033e57706b": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:02:03.422088",
+        "id": "77cda566-8910-4f07-9879-26033e57706b",
+        "updated_at": "2020-06-30T15:02:03.422090"
+    },
+    "State.7821163b-07fc-4e72-8cee-e24e07c8054f": {
+        "__class__": "State",
+        "created_at": "2020-06-30T14:56:16.312679",
+        "id": "7821163b-07fc-4e72-8cee-e24e07c8054f",
+        "updated_at": "2020-06-30T14:56:16.312681"
+    },
+    "State.819fa4b4-86ad-43e4-8bec-baa021084b4c": {
+        "__class__": "State",
+        "created_at": "2020-06-30T14:56:16.384344",
+        "id": "819fa4b4-86ad-43e4-8bec-baa021084b4c",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T14:56:16.384349"
+    },
+    "State.8512e9a5-9d05-41c6-b36f-08e94fe3753f": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:07:19.671992",
+        "id": "8512e9a5-9d05-41c6-b36f-08e94fe3753f",
+        "updated_at": "2020-06-30T15:07:19.671994"
+    },
+    "State.86e24dab-a8fe-4d23-9bd1-d457f9b6d80d": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:02:03.553056",
+        "id": "86e24dab-a8fe-4d23-9bd1-d457f9b6d80d",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:02:03.553063"
+    },
+    "State.905c7f66-31f9-438c-82e1-f26f50e4b588": {
+        "__class__": "State",
+        "created_at": "2020-06-30T14:56:16.374170",
+        "id": "905c7f66-31f9-438c-82e1-f26f50e4b588",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T14:56:16.374176"
+    },
+    "State.9304b068-927e-4aeb-8258-d0156ad02c1a": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:02:03.552780",
+        "id": "9304b068-927e-4aeb-8258-d0156ad02c1a",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:02:03.552783"
+    },
+    "State.99d6beaa-efc8-4471-8315-0553ec6ff1f6": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:07:19.865496",
+        "id": "99d6beaa-efc8-4471-8315-0553ec6ff1f6",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:07:19.865504"
+    },
+    "State.a2d83a7a-2196-433d-830c-49e87cc13cad": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:07:19.657274",
+        "id": "a2d83a7a-2196-433d-830c-49e87cc13cad",
+        "updated_at": "2020-06-30T15:07:19.657280"
+    },
+    "State.a331a1d5-0798-4c5b-9a4d-2096c2f92f3d": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:07:19.657439",
+        "id": "a331a1d5-0798-4c5b-9a4d-2096c2f92f3d",
+        "updated_at": "2020-06-30T15:07:19.657441"
+    },
+    "State.af07f51a-a6bd-425e-a38c-00fe61dd6b62": {
+        "__class__": "State",
+        "created_at": "2020-06-30T14:56:16.384116",
+        "id": "af07f51a-a6bd-425e-a38c-00fe61dd6b62",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T14:56:16.384122"
+    },
+    "State.b260c15d-a4b9-438b-915d-865db665b584": {
+        "__class__": "State",
+        "created_at": "2020-06-30T14:56:16.312529",
+        "id": "b260c15d-a4b9-438b-915d-865db665b584",
+        "updated_at": "2020-06-30T14:56:16.312531"
+    },
+    "State.ba8c3718-e9d6-4c00-9327-7badc4848b03": {
+        "__class__": "State",
+        "created_at": "2020-06-30T14:56:16.312823",
+        "id": "ba8c3718-e9d6-4c00-9327-7badc4848b03",
+        "updated_at": "2020-06-30T14:56:16.312825"
+    },
+    "State.bb579697-b2e0-4829-ab36-449aa748152b": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:07:19.865729",
+        "id": "bb579697-b2e0-4829-ab36-449aa748152b",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:07:19.865735"
+    },
+    "State.bc0d8290-5e5d-4875-ab76-d14d43ad10bb": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:02:03.552921",
+        "id": "bc0d8290-5e5d-4875-ab76-d14d43ad10bb",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:02:03.552925"
+    },
+    "State.bd4606a7-0e44-43c9-b813-230504214c6e": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:07:19.865915",
+        "id": "bd4606a7-0e44-43c9-b813-230504214c6e",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:07:19.865919"
+    },
+    "State.c224599f-dea5-4db4-9f9c-e47557c45803": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:02:03.432494",
+        "id": "c224599f-dea5-4db4-9f9c-e47557c45803",
+        "updated_at": "2020-06-30T15:02:03.432496"
+    },
+    "State.c60058b6-ae56-4780-9a0b-ba4c0042a865": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:02:03.422313",
+        "id": "c60058b6-ae56-4780-9a0b-ba4c0042a865",
+        "updated_at": "2020-06-30T15:02:03.422314"
+    },
+    "State.c72fa6c9-76a5-494d-bbc0-b058b8d34b2a": {
+        "__class__": "State",
+        "created_at": "2020-06-30T14:56:16.314470",
+        "id": "c72fa6c9-76a5-494d-bbc0-b058b8d34b2a",
+        "updated_at": "2020-06-30T14:56:16.314473"
+    },
+    "State.c96e1932-31d8-497e-b622-02a6e8219e32": {
+        "__class__": "State",
+        "created_at": "2020-06-30T14:56:16.374641",
+        "id": "c96e1932-31d8-497e-b622-02a6e8219e32",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T14:56:16.374645"
+    },
+    "State.ce43f2d0-0571-4d65-bc24-0968d4b9bf13": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:07:19.656855",
+        "id": "ce43f2d0-0571-4d65-bc24-0968d4b9bf13",
+        "updated_at": "2020-06-30T15:07:19.656858"
+    },
+    "State.cfab52ef-c94e-4865-91ac-e5369039e9a0": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:07:19.672395",
+        "id": "cfab52ef-c94e-4865-91ac-e5369039e9a0",
+        "updated_at": "2020-06-30T15:07:19.672398"
+    },
+    "State.d515a9a3-9dfe-4702-90f0-7a24440d3711": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:07:19.847804",
+        "id": "d515a9a3-9dfe-4702-90f0-7a24440d3711",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:07:19.847808"
+    },
+    "State.d736b444-922c-4f58-80ab-1877ae598774": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:02:03.553186",
+        "id": "d736b444-922c-4f58-80ab-1877ae598774",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:02:03.553214"
+    },
+    "State.db182197-6187-481e-9136-4bc80d24a877": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:02:03.567962",
+        "id": "db182197-6187-481e-9136-4bc80d24a877",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T15:02:03.567971"
+    },
+    "State.e447d4bd-c594-4e67-beb6-0b5dec6730b0": {
+        "__class__": "State",
+        "created_at": "2020-06-30T15:07:19.657114",
+        "id": "e447d4bd-c594-4e67-beb6-0b5dec6730b0",
+        "updated_at": "2020-06-30T15:07:19.657115"
+    },
+    "State.fadab4a4-c074-472e-8538-c9a7e254caf4": {
+        "__class__": "State",
+        "created_at": "2020-06-30T14:56:16.374802",
+        "id": "fadab4a4-c074-472e-8538-c9a7e254caf4",
+        "name": "Malambo",
+        "updated_at": "2020-06-30T14:56:16.374831"
+    },
+    "User.02e3a031-2d98-4ef1-9707-9928c9a7dae8": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.846126",
+        "id": "02e3a031-2d98-4ef1-9707-9928c9a7dae8",
+        "updated_at": "2020-06-30T15:07:19.846129"
+    },
+    "User.0440d625-80bc-4b8c-b4ac-c44cc93196df": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.334653",
+        "id": "0440d625-80bc-4b8c-b4ac-c44cc93196df",
+        "updated_at": "2020-06-30T14:56:16.334660"
+    },
+    "User.0ca69174-87cf-4fdf-a616-42b50727bd7f": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.569936",
+        "email": "andrew_kalil@gmail.com",
+        "first_name": "Andrew",
+        "id": "0ca69174-87cf-4fdf-a616-42b50727bd7f",
+        "last_name": "Kalil",
+        "password": "tryHarderf00l",
+        "updated_at": "2020-06-30T15:02:03.569976"
+    },
+    "User.0ced54b7-816c-46fb-9972-465b22e43054": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.826116",
+        "id": "0ced54b7-816c-46fb-9972-465b22e43054",
+        "updated_at": "2020-06-30T15:07:19.826119"
+    },
+    "User.0d3382cc-2429-48e8-9705-2e3d9b6aeb1d": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.359676",
+        "id": "0d3382cc-2429-48e8-9705-2e3d9b6aeb1d",
+        "updated_at": "2020-06-30T14:56:16.359679"
+    },
+    "User.0f1570f8-e77a-4eee-8b67-11216787e2ad": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.552471",
+        "id": "0f1570f8-e77a-4eee-8b67-11216787e2ad",
+        "updated_at": "2020-06-30T15:02:03.552472"
+    },
+    "User.11943c51-92f7-42f0-b28b-60dc832f0275": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.385398",
+        "email": "andrew_kalil@gmail.com",
+        "first_name": "Andrew",
+        "id": "11943c51-92f7-42f0-b28b-60dc832f0275",
+        "last_name": "Kalil",
+        "password": "tryHarderf00l",
+        "updated_at": "2020-06-30T14:56:16.385402"
+    },
+    "User.12f22879-e7a2-4a4e-adf4-b9f05a2c39d1": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.359887",
+        "id": "12f22879-e7a2-4a4e-adf4-b9f05a2c39d1",
+        "updated_at": "2020-06-30T14:56:16.359889"
+    },
+    "User.1381ee4b-c897-4fa2-af8e-21542690afa1": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.328399",
+        "id": "1381ee4b-c897-4fa2-af8e-21542690afa1",
+        "updated_at": "2020-06-30T14:56:16.328404"
+    },
+    "User.15a37e41-0f39-4ff2-b262-6313b2ef4c20": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.569585",
+        "email": "andrew_kalil@gmail.com",
+        "first_name": "Andrew",
+        "id": "15a37e41-0f39-4ff2-b262-6313b2ef4c20",
+        "last_name": "Kalil",
+        "password": "tryHarderf00l",
+        "updated_at": "2020-06-30T15:02:03.569589"
+    },
+    "User.2b17d0ac-77b8-4476-a530-c99b9d448b72": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.331232",
+        "id": "2b17d0ac-77b8-4476-a530-c99b9d448b72",
+        "updated_at": "2020-06-30T14:56:16.331239"
+    },
+    "User.2f396db3-d559-4c5d-bdde-59cd397071b8": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.672702",
+        "id": "2f396db3-d559-4c5d-bdde-59cd397071b8",
+        "updated_at": "2020-06-30T15:07:19.672705"
+    },
+    "User.30be47a5-bc05-4393-b6d3-47567fc43920": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.690026",
+        "id": "30be47a5-bc05-4393-b6d3-47567fc43920",
+        "updated_at": "2020-06-30T15:07:19.690033"
+    },
+    "User.3110307c-0c1d-4efc-8b77-c243c4b85383": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.498490",
+        "id": "3110307c-0c1d-4efc-8b77-c243c4b85383",
+        "updated_at": "2020-06-30T15:02:03.498495"
+    },
+    "User.3174d14e-6fdb-4a38-95ba-e2741537fb35": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.866697",
+        "email": "andrew_kalil@gmail.com",
+        "first_name": "Andrew",
+        "id": "3174d14e-6fdb-4a38-95ba-e2741537fb35",
+        "last_name": "Kalil",
+        "password": "tryHarderf00l",
+        "updated_at": "2020-06-30T15:07:19.866700"
+    },
+    "User.338637b8-046e-4599-aabd-899bac3d59ac": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.433140",
+        "id": "338637b8-046e-4599-aabd-899bac3d59ac",
+        "updated_at": "2020-06-30T15:02:03.433144"
+    },
+    "User.3406124a-44af-4740-9eb0-fb44efca3ce5": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.388114",
+        "email": "andrew_kalil@gmail.com",
+        "first_name": "Andrew",
+        "id": "3406124a-44af-4740-9eb0-fb44efca3ce5",
+        "last_name": "Kalil",
+        "password": "tryHarderf00l",
+        "updated_at": "2020-06-30T14:56:16.388161"
+    },
+    "User.397eda6c-448d-4a28-b928-bd9421849515": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.552045",
+        "id": "397eda6c-448d-4a28-b928-bd9421849515",
+        "updated_at": "2020-06-30T15:02:03.552049"
+    },
+    "User.39d9f0d2-03e7-4dd6-8461-72679a49a0c1": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.569723",
+        "email": "andrew_kalil@gmail.com",
+        "first_name": "Andrew",
+        "id": "39d9f0d2-03e7-4dd6-8461-72679a49a0c1",
+        "last_name": "Kalil",
+        "password": "tryHarderf00l",
+        "updated_at": "2020-06-30T15:02:03.569727"
+    },
+    "User.3b21e8b2-b307-4d85-abf6-b84f2bd3122d": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.368006",
+        "id": "3b21e8b2-b307-4d85-abf6-b84f2bd3122d",
+        "updated_at": "2020-06-30T14:56:16.368009"
+    },
+    "User.3ebd193f-9a1d-427c-a2b3-4d5d34a6d471": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.521996",
+        "id": "3ebd193f-9a1d-427c-a2b3-4d5d34a6d471",
+        "updated_at": "2020-06-30T15:02:03.522003"
+    },
+    "User.3fd46ac0-98db-46e9-ae59-f26522466d23": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.769570",
+        "id": "3fd46ac0-98db-46e9-ae59-f26522466d23",
+        "updated_at": "2020-06-30T15:07:19.769574"
+    },
+    "User.4d40f5ce-b457-4fd0-83c8-eebbac7cba6e": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.360101",
+        "id": "4d40f5ce-b457-4fd0-83c8-eebbac7cba6e",
+        "updated_at": "2020-06-30T14:56:16.360103"
+    },
+    "User.4d4b284d-b04c-46ce-a75c-a97a9b2018e7": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.471009",
+        "id": "4d4b284d-b04c-46ce-a75c-a97a9b2018e7",
+        "updated_at": "2020-06-30T15:02:03.471016"
+    },
+    "User.537d46d6-f90d-460a-a3b5-92a90695160d": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.498229",
+        "id": "537d46d6-f90d-460a-a3b5-92a90695160d",
+        "updated_at": "2020-06-30T15:02:03.498237"
+    },
+    "User.60a72b93-e657-4093-a664-adfa3f32a4c8": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.385045",
+        "email": "andrew_kalil@gmail.com",
+        "first_name": "Andrew",
+        "id": "60a72b93-e657-4093-a664-adfa3f32a4c8",
+        "last_name": "Kalil",
+        "password": "tryHarderf00l",
+        "updated_at": "2020-06-30T14:56:16.385051"
+    },
+    "User.6181c4aa-4fa4-4a68-9f3b-a5f1f08dd562": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.510635",
+        "id": "6181c4aa-4fa4-4a68-9f3b-a5f1f08dd562",
+        "updated_at": "2020-06-30T15:02:03.510642"
+    },
+    "User.650f75f4-92be-44a9-9f66-41f1d062690d": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.712256",
+        "id": "650f75f4-92be-44a9-9f66-41f1d062690d",
+        "updated_at": "2020-06-30T15:07:19.712261"
+    },
+    "User.6742b282-bf21-4406-bbf0-235ae27e544e": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.826542",
+        "id": "6742b282-bf21-4406-bbf0-235ae27e544e",
+        "updated_at": "2020-06-30T15:07:19.826545"
+    },
+    "User.6875787e-f82e-4425-913f-069d5b38f95a": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.569259",
+        "email": "andrew_kalil@gmail.com",
+        "first_name": "Andrew",
+        "id": "6875787e-f82e-4425-913f-069d5b38f95a",
+        "last_name": "Kalil",
+        "password": "tryHarderf00l",
+        "updated_at": "2020-06-30T15:02:03.569264"
+    },
+    "User.6ee6a876-ed78-4ca0-9819-9bd1488019ff": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.538271",
+        "id": "6ee6a876-ed78-4ca0-9819-9bd1488019ff",
+        "updated_at": "2020-06-30T15:02:03.538273"
+    },
+    "User.7419cb6a-ac8a-4363-90a1-b88bc8ffee5d": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.325040",
+        "id": "7419cb6a-ac8a-4363-90a1-b88bc8ffee5d",
+        "updated_at": "2020-06-30T14:56:16.325047"
+    },
+    "User.74be04c9-6a55-4791-99f5-3ca140ac1008": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.569438",
+        "email": "andrew_kalil@gmail.com",
+        "first_name": "Andrew",
+        "id": "74be04c9-6a55-4791-99f5-3ca140ac1008",
+        "last_name": "Kalil",
+        "password": "tryHarderf00l",
+        "updated_at": "2020-06-30T15:02:03.569443"
+    },
+    "User.7651ad83-db39-487d-9e31-798f9971f602": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.552319",
+        "id": "7651ad83-db39-487d-9e31-798f9971f602",
+        "updated_at": "2020-06-30T15:02:03.552320"
+    },
+    "User.775f403c-93fb-449c-b254-61965314c239": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.369091",
+        "id": "775f403c-93fb-449c-b254-61965314c239",
+        "updated_at": "2020-06-30T14:56:16.369094"
+    },
+    "User.79531639-5134-42a0-8a2b-32b2f56bc594": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.485384",
+        "id": "79531639-5134-42a0-8a2b-32b2f56bc594",
+        "updated_at": "2020-06-30T15:02:03.485392"
+    },
+    "User.83fc06ed-a146-44d9-876f-6b596716e873": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.846612",
+        "id": "83fc06ed-a146-44d9-876f-6b596716e873",
+        "updated_at": "2020-06-30T15:07:19.846615"
+    },
+    "User.849c5f7b-b965-4a29-96bb-0f31b36b1227": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.786965",
+        "id": "849c5f7b-b965-4a29-96bb-0f31b36b1227",
+        "updated_at": "2020-06-30T15:07:19.786971"
+    },
+    "User.883d8df4-e3dc-4d0b-b1e8-44e89d49a102": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.442624",
+        "id": "883d8df4-e3dc-4d0b-b1e8-44e89d49a102",
+        "updated_at": "2020-06-30T15:02:03.442631"
+    },
+    "User.8ae16879-a297-4b3e-8839-ca699fade3ca": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.751433",
+        "id": "8ae16879-a297-4b3e-8839-ca699fade3ca",
+        "updated_at": "2020-06-30T15:07:19.751439"
+    },
+    "User.8be4cb83-ee26-48f9-8efb-7d729c80c948": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.826719",
+        "id": "8be4cb83-ee26-48f9-8efb-7d729c80c948",
+        "updated_at": "2020-06-30T15:07:19.826721"
+    },
+    "User.8e92b6b7-9c59-4ae8-897c-dd120d78c23b": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.343259",
+        "id": "8e92b6b7-9c59-4ae8-897c-dd120d78c23b",
+        "updated_at": "2020-06-30T14:56:16.343266"
+    },
+    "User.91745157-1a35-483d-a802-2ad279296ec7": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.319023",
+        "id": "91745157-1a35-483d-a802-2ad279296ec7",
+        "updated_at": "2020-06-30T14:56:16.319030"
+    },
+    "User.92e11cd6-322c-4d94-8b7a-b3b40bc6ea6f": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.538051",
+        "id": "92e11cd6-322c-4d94-8b7a-b3b40bc6ea6f",
+        "updated_at": "2020-06-30T15:02:03.538054"
+    },
+    "User.9568b426-9737-4863-a862-63d53aa9e7a7": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.826346",
+        "id": "9568b426-9737-4863-a862-63d53aa9e7a7",
+        "updated_at": "2020-06-30T15:07:19.826350"
+    },
+    "User.97a6136d-748d-42e5-a1d4-436e092e6598": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.866894",
+        "email": "andrew_kalil@gmail.com",
+        "first_name": "Andrew",
+        "id": "97a6136d-748d-42e5-a1d4-436e092e6598",
+        "last_name": "Kalil",
+        "password": "tryHarderf00l",
+        "updated_at": "2020-06-30T15:07:19.866926"
+    },
+    "User.a116013f-a3fb-4e2c-854b-3379b276cd9e": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.730771",
+        "id": "a116013f-a3fb-4e2c-854b-3379b276cd9e",
+        "updated_at": "2020-06-30T15:07:19.730778"
+    },
+    "User.a17c553f-06e7-4619-9316-6b6b72602cb6": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.334868",
+        "id": "a17c553f-06e7-4619-9316-6b6b72602cb6",
+        "updated_at": "2020-06-30T14:56:16.334873"
+    },
+    "User.a61078b1-2b47-4f7f-8185-fd6ad3991b5f": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.538625",
+        "id": "a61078b1-2b47-4f7f-8185-fd6ad3991b5f",
+        "updated_at": "2020-06-30T15:02:03.538629"
+    },
+    "User.ab371104-f92a-4aab-95ae-05e131b46769": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.339810",
+        "id": "ab371104-f92a-4aab-95ae-05e131b46769",
+        "updated_at": "2020-06-30T14:56:16.339817"
+    },
+    "User.b616da39-5994-402c-b7a2-dd0bfe0e5e63": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.769392",
+        "id": "b616da39-5994-402c-b7a2-dd0bfe0e5e63",
+        "updated_at": "2020-06-30T15:07:19.769398"
+    },
+    "User.b8ff73f4-2563-4bdb-914e-7d7ab6d5cb36": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.359422",
+        "id": "b8ff73f4-2563-4bdb-914e-7d7ab6d5cb36",
+        "updated_at": "2020-06-30T14:56:16.359425"
+    },
+    "User.c304b13d-e361-46c3-a93a-6ed92c6032c4": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.315332",
+        "id": "c304b13d-e361-46c3-a93a-6ed92c6032c4",
+        "updated_at": "2020-06-30T14:56:16.315337"
+    },
+    "User.c5618587-2bfb-4e5e-badd-acf10e344bcc": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.866445",
+        "email": "andrew_kalil@gmail.com",
+        "first_name": "Andrew",
+        "id": "c5618587-2bfb-4e5e-badd-acf10e344bcc",
+        "last_name": "Kalil",
+        "password": "tryHarderf00l",
+        "updated_at": "2020-06-30T15:07:19.866450"
+    },
+    "User.d0f216b7-8cb9-4c13-aa98-c0fce8bdb33b": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.459248",
+        "id": "d0f216b7-8cb9-4c13-aa98-c0fce8bdb33b",
+        "updated_at": "2020-06-30T15:02:03.459254"
+    },
+    "User.dddccd7b-3c22-4c61-a04e-c0dd740e9632": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:02:03.538460",
+        "id": "dddccd7b-3c22-4c61-a04e-c0dd740e9632",
+        "updated_at": "2020-06-30T15:02:03.538463"
+    },
+    "User.de8c0db4-27fe-4cea-89cc-2f0b9cc882c5": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.373197",
+        "id": "de8c0db4-27fe-4cea-89cc-2f0b9cc882c5",
+        "updated_at": "2020-06-30T14:56:16.373203"
+    },
+    "User.e9777d9a-681c-4523-8294-582c7fc0d21b": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.804341",
+        "id": "e9777d9a-681c-4523-8294-582c7fc0d21b",
+        "updated_at": "2020-06-30T15:07:19.804346"
+    },
+    "User.ea23b8d7-bff5-41a9-a731-58e8003113f9": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.866574",
+        "email": "andrew_kalil@gmail.com",
+        "first_name": "Andrew",
+        "id": "ea23b8d7-bff5-41a9-a731-58e8003113f9",
+        "last_name": "Kalil",
+        "password": "tryHarderf00l",
+        "updated_at": "2020-06-30T15:07:19.866579"
+    },
+    "User.ea802fc8-3c28-44a3-b0b6-9fbf77782be8": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.866302",
+        "email": "andrew_kalil@gmail.com",
+        "first_name": "Andrew",
+        "id": "ea802fc8-3c28-44a3-b0b6-9fbf77782be8",
+        "last_name": "Kalil",
+        "password": "tryHarderf00l",
+        "updated_at": "2020-06-30T15:07:19.866305"
+    },
+    "User.f28a48c1-beca-47e9-a94c-9085d0581dea": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.387765",
+        "email": "andrew_kalil@gmail.com",
+        "first_name": "Andrew",
+        "id": "f28a48c1-beca-47e9-a94c-9085d0581dea",
+        "last_name": "Kalil",
+        "password": "tryHarderf00l",
+        "updated_at": "2020-06-30T14:56:16.387772"
+    },
+    "User.f6db41ee-d204-4b80-99b5-58cdb6868735": {
+        "__class__": "User",
+        "created_at": "2020-06-30T15:07:19.845715",
+        "id": "f6db41ee-d204-4b80-99b5-58cdb6868735",
+        "updated_at": "2020-06-30T15:07:19.845718"
+    },
+    "User.f840e17b-0615-4d42-8b13-ac0e726612ee": {
+        "__class__": "User",
+        "created_at": "2020-06-30T14:56:16.385234",
+        "email": "andrew_kalil@gmail.com",
+        "first_name": "Andrew",
+        "id": "f840e17b-0615-4d42-8b13-ac0e726612ee",
+        "last_name": "Kalil",
+        "password": "tryHarderf00l",
+        "updated_at": "2020-06-30T14:56:16.385238"
+    }
+}

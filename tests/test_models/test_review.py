@@ -49,7 +49,7 @@ class UserTest(unittest.TestCase):
         self.assertTrue(isinstance(self.ins, Review))
         self.assertTrue(self.ins.__class__ == Review)
 
-    def test_save_method(self):
+    def test_save(self):
         """testig whether save methd works for User"""
         self.ins.save()
         self.assertNotEqual(self.ins.created_at, self.ins.updated_at)

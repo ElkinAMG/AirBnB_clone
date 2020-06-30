@@ -41,7 +41,7 @@ class StateTest(unittest.TestCase):
         self.assertTrue(isinstance(self.ins, Amenity))
         self.assertTrue(self.ins.__class__ == Amenity)
 
-    def test_save_method(self):
+    def test_save(self):
         """testig whether save methd works for State"""
         self.ins.save()
         self.assertNotEqual(self.ins.created_at, self.ins.updated_at)

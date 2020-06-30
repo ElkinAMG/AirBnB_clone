@@ -63,7 +63,7 @@ class PlaceTest(unittest.TestCase):
         self.assertTrue(isinstance(self.ins, Place))
         self.assertTrue(self.ins.__class__ == Place)
 
-    def test_save_method(self):
+    def test_save(self):
         """testig whether save methd works for Place"""
         self.ins.save()
         self.assertNotEqual(self.ins.created_at, self.ins.updated_at)
