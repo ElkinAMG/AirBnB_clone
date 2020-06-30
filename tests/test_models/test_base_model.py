@@ -35,7 +35,7 @@ class BaseModelTest(unittest.TestCase):
         self.assertTrue(isinstance(self.ins, BaseModel))
         self.assertTrue(self.ins.__class__ == BaseModel)
 
-    def test_save(self):
+    def test_save_BaseModel(self):
         """testig whether save methd works for BaseModel"""
         self.ins.save()
         self.assertNotEqual(self.ins.created_at, self.ins.updated_at)
