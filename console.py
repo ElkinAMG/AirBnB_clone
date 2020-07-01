@@ -164,6 +164,16 @@ class HBNBCommand(cmd.Cmd):
                                                     v, ci[2], ci[3])
                                                 storage.save()
 
+    def default(self, arguements=""):
+        """performs the default commands as if function was called
+        on terminal"""
+        args = arguements.split(".")
+        if len(args) > 1:
+            if args[1] == "all()":
+                self.do_all(args[0])
+        else:
+            cmd.Cmd.default(self, args)
+
     def do_quit(self, *args):
         """Exits the console when command 'quit' is entered
         """
