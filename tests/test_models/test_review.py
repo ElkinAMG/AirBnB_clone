@@ -10,7 +10,6 @@ from time import sleep
 from datetime import datetime
 
 
-
 class UserTest(unittest.TestCase):
     """
     Testing Class for `Review`

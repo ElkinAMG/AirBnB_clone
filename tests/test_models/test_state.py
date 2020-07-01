@@ -9,7 +9,6 @@ from time import sleep
 from datetime import datetime
 
 
-
 class StateTest(unittest.TestCase):
     """
     Testing Class for `User`
