@@ -164,13 +164,29 @@ class HBNBCommand(cmd.Cmd):
                                                     v, ci[2], ci[3])
                                                 storage.save()
 
+    def count(self, cls_name):
+        """count the number of instances of a class
+        """
+        i = 0
+        if cls_name not in self.class_list:
+            print(self.cl_d_e)
+        objects = storage.all()
+        for k, v in objects.items():
+            name = k.split('.')
+            if name[0] == cls_name:
+                i += 1
+        print(i)
+
     def default(self, arguements=""):
         """performs the default commands as if function was called
         on terminal"""
         args = arguements.split(".")
+        print(args)
         if len(args) > 1:
             if args[1] == "all()":
                 self.do_all(args[0])
+            if args[1] == "count()":
+                self.count(args[0])
         else:
             cmd.Cmd.default(self, args)
 
