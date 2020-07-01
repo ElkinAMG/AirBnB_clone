@@ -4,6 +4,8 @@ Unittesting for `BaseModel`.
 """
 import unittest
 from models.base_model import BaseModel
+from time import sleep
+from datetime import datetime
 
 
 class BaseModelTest(unittest.TestCase):
@@ -34,6 +36,17 @@ class BaseModelTest(unittest.TestCase):
         """testing to see whether created instance is equal to BaseModel"""
         self.assertTrue(isinstance(self.ins, BaseModel))
         self.assertTrue(self.ins.__class__ == BaseModel)
+
+    def test_save(self):
+        """Test save method"""
+        obj = BaseModel()
+        sleep(1)
+
+        now = datetime.now().replace(microsecond=0)
+        obj.save()
+
+        self.assertEqual(obj.updated_at.replace(microsecond=0),
+                         now)
 
     def test_save_BaseModel(self):
         """testig whether save methd works for BaseModel"""
