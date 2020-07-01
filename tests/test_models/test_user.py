@@ -7,6 +7,7 @@ from models.user import User
 from models.base_model import BaseModel
 from time import sleep
 from datetime import datetime
+import pep8
 
 
 class UserTest(unittest.TestCase):
@@ -95,3 +96,12 @@ class UserTest(unittest.TestCase):
         self.assertEqual(self.ins.id, new.id)
         self.assertEqual(self.ins.updated_at, new.updated_at)
         self.assertEqual(self.ins.created_at, new.created_at)
+
+    def pep8(self):
+        """Test pep8"""
+
+        style = pep8.StyleGuide(quiet=True)
+        result = pep8style.check_files(
+            ["models/user.py", "test/test_models/test_user.py"])
+        self.tests.assertEqual(result.total_errors, 0,
+                               'Found code style errors (and warnings)."')
