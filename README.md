@@ -14,11 +14,11 @@ This is the console or command interpreter for the Holberton Airbnb clone projec
 
 ### Commands:
 
-* create - create an object
-* show - show an object (based on id)
-* destroy - destroy an object
-* all - show all objects, of one type or all types
-* quit/EOF - quit the console
+* create - creates an object or instance
+* show - show an object in a specific format
+* destroy - destroy an object or deletes it
+* all - show all objects of a certain type (if specified), or all types
+* quit/EOF - quit or exit the console
 * help - see descriptions of commands
 
 ### So, where do we begin?
