@@ -5,6 +5,9 @@ Unittesting for `User`.
 import unittest
 from models.user import User
 from models.base_model import BaseModel
+from time import sleep
+from datetime import datetime
+
 
 
 class UserTest(unittest.TestCase):
@@ -52,6 +55,17 @@ class UserTest(unittest.TestCase):
         self.assertTrue(self.ins.__class__ == User)
 
     def test_save(self):
+        """Test save method"""
+        obj = BaseModel()
+        sleep(1)
+
+        now = datetime.now().replace(microsecond=0)
+        obj.save()
+
+        self.assertEqual(obj.updated_at.replace(microsecond=0),
+                         now)
+
+    def test_save_user(self):
         """testig whether save methd works for User"""
         self.ins.save()
         self.assertNotEqual(self.ins.created_at, self.ins.updated_at)

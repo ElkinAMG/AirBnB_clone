@@ -5,6 +5,9 @@ import unittest
 from models.place import Place
 from models.amenity import Amenity
 from models.base_model import BaseModel
+from time import sleep
+from datetime import datetime
+
 
 
 class PlaceTest(unittest.TestCase):
@@ -64,6 +67,17 @@ class PlaceTest(unittest.TestCase):
         self.assertTrue(self.ins.__class__ == Place)
 
     def test_save(self):
+        """Test save method"""
+        obj = BaseModel()
+        sleep(1)
+
+        now = datetime.now().replace(microsecond=0)
+        obj.save()
+
+        self.assertEqual(obj.updated_at.replace(microsecond=0),
+                         now)
+
+    def test_save_place(self):
         """testig whether save methd works for Place"""
         self.ins.save()
         self.assertNotEqual(self.ins.created_at, self.ins.updated_at)

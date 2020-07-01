@@ -6,6 +6,9 @@ from models.review import Review
 from models.place import Place
 from models.user import User
 from models.base_model import BaseModel
+from time import sleep
+from datetime import datetime
+
 
 
 class UserTest(unittest.TestCase):
@@ -50,6 +53,17 @@ class UserTest(unittest.TestCase):
         self.assertTrue(self.ins.__class__ == Review)
 
     def test_save(self):
+        """Test save method"""
+        obj = BaseModel()
+        sleep(1)
+
+        now = datetime.now().replace(microsecond=0)
+        obj.save()
+
+        self.assertEqual(obj.updated_at.replace(microsecond=0),
+                         now)
+
+    def test_save_review(self):
         """testig whether save methd works for User"""
         self.ins.save()
         self.assertNotEqual(self.ins.created_at, self.ins.updated_at)

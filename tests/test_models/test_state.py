@@ -5,6 +5,9 @@ Unittesting for `State`.
 import unittest
 from models.base_model import BaseModel
 from models.state import State
+from time import sleep
+from datetime import datetime
+
 
 
 class StateTest(unittest.TestCase):
@@ -43,6 +46,17 @@ class StateTest(unittest.TestCase):
         self.assertTrue(self.ins.__class__ == State)
 
     def test_save(self):
+        """Test save method"""
+        obj = BaseModel()
+        sleep(1)
+
+        now = datetime.now().replace(microsecond=0)
+        obj.save()
+
+        self.assertEqual(obj.updated_at.replace(microsecond=0),
+                         now)
+
+    def test_save_state(self):
         """testig whether save methd works for State"""
         self.ins.save()
         self.assertNotEqual(self.ins.created_at, self.ins.updated_at)
